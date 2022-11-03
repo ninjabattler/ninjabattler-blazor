@@ -16,7 +16,8 @@
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/NinjabattlerBlazor.RazorAssemblyInfo.cs
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/staticwebassets.build.json
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/staticwebassets.development.json
-/home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/bundle/NinjabattlerBlazor.styles.css
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/projectbundle/NinjabattlerBlazor.bundle.scp.css
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/NinjabattlerBlazor.dll
