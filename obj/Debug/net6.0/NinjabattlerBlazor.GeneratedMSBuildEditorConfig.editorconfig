@@ -31,10 +31,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/jayden/Documents/ninjabattler-blazor/Shared/Navbar/Navbar.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdmJhci9OYXZiYXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/jayden/Documents/ninjabattler-blazor/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 [/home/jayden/Documents/ninjabattler-blazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-z9n03ki92t
+
+[/home/jayden/Documents/ninjabattler-blazor/Shared/Navbar/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdmJhci9OYXZiYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hqv3ustcjh
 
 [/home/jayden/Documents/ninjabattler-blazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=

@@ -1,0 +1,23 @@
+{
+  "name": "ninjabattler-blazor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjabattler/ninjabattler-blazor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjabattler/ninjabattler-blazor/issues"
+  },
+  "homepage": "https://github.com/ninjabattler/ninjabattler-blazor#readme",
+  "devDependencies": {
+    "sass": "^1.56.0"
+  }
+}

@@ -25,3 +25,6 @@
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/NinjabattlerBlazor.pdb
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/NinjabattlerBlazor.genruntimeconfig.cache
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/ref/NinjabattlerBlazor.dll
+/home/jayden/Documents/ninjabattler-blazor/bin/Debug/net6.0/package-lock.json
+/home/jayden/Documents/ninjabattler-blazor/bin/Debug/net6.0/package.json
+/home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/Shared/Navbar/Navbar.razor.rz.scp.css

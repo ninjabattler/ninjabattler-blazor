@@ -1,0 +1,13 @@
+[
+  {
+    "outputFiler": "Shared/Navbar/Navbar.razor.css",
+    "inputFiler": "Shared/Navbar/Navbar.razor.scss",
+    "minify": {
+      "enabled": true
+    },
+    "includedInProject": true,
+    "options": {
+      "sourceMap": false
+    }
+  }
+]

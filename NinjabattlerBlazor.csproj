@@ -1,9 +1,26 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
+  <ItemGroup>
+    <ComponentScssFiles Include="**/*/*.scss" Exclude="node_modules/**;wwwroot/**;Styles/**" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Update="**/*.razor.css" Watch="false" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Watch Include="**/*.razor.scss" Watch="true" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <Target Name="CompileGlobalSass" BeforeTargets="Compile">
+    <Message Text="Compiling global SCSS files" Importance="high" />
+    <Exec Condition="!$([System.Text.RegularExpressions.Regex]::IsMatch('%(ComponentScssFiles.Identity)', `.*[/\\]_.*`))" Command="npm run sass -- %(ComponentScssFiles.Identity) %(relativedir)%(filename).css" />
+  </Target>
 
 </Project>

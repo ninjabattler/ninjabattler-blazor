@@ -23,6 +23,12 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    },
+    "Watch": {
+      "commandName": "Executable",
+      "executablePath": "*.razor.scss",
+      "workingDirectory": "$(ProjectDir)",
+      "commandLineArgs": "watch"
     }
   }
 }

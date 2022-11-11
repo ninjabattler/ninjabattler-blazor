@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/LqIrRhHtzbClopJtpRj7UPj9EZuT+Gtlo2cnyFZJiM=",
+  "Hash": "XCmJ49S3vX0YmN7oJJeOU9d8MNOwud5ONvz1ovD5QRo=",
   "Source": "NinjabattlerBlazor",
   "BasePath": "_content/NinjabattlerBlazor",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/projectbundle/NinjabattlerBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/Banner.png",
+      "SourceId": "NinjabattlerBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/",
+      "BasePath": "_content/NinjabattlerBlazor",
+      "RelativePath": "Banner.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Banner.png"
     },
     {
       "Identity": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/css/bootstrap/bootstrap.min.css",
@@ -270,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/spacebanner.png",
+      "SourceId": "NinjabattlerBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/",
+      "BasePath": "_content/NinjabattlerBlazor",
+      "RelativePath": "spacebanner.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/spacebanner.png"
     }
   ]
 }
