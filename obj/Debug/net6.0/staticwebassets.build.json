@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JoeZuDVSPAB+CZ41nFD95uvVzJn7V7tqiTFhwWzueQA=",
+  "Hash": "vyXHZKJfjbFBSn9PloSeYbWiNWAhFWw5dn0cGLUtesM=",
   "Source": "NinjabattlerBlazor",
   "BasePath": "_content/NinjabattlerBlazor",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/Ninja placeholder.png",
+      "SourceId": "NinjabattlerBlazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/",
+      "BasePath": "_content/NinjabattlerBlazor",
+      "RelativePath": "Ninja placeholder.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Ninja placeholder.png"
     },
     {
       "Identity": "/home/jayden/Documents/ninjabattler-blazor/wwwroot/spacebanner.png",

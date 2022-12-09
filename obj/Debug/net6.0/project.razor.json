@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": -1511222138,
-        "Kind": "Components.Component",
-        "Name": "NinjabattlerBlazor.Pages.FetchData",
-        "AssemblyName": "NinjabattlerBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NinjabattlerBlazor.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -868786053,
-        "Kind": "Components.Component",
-        "Name": "NinjabattlerBlazor.Pages.FetchData",
-        "AssemblyName": "NinjabattlerBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NinjabattlerBlazor.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NinjabattlerBlazor.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -2021855244,
         "Kind": "Components.Component",
         "Name": "NinjabattlerBlazor.Pages.Index",
@@ -107,6 +74,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "NinjabattlerBlazor.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1511222138,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Pages.FetchData",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -868786053,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Pages.FetchData",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NinjabattlerBlazor.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -193,6 +193,105 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "NinjabattlerBlazor.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 138040477,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Shared.NavMenu",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 503005807,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Shared.NavMenu",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NinjabattlerBlazor.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -847700702,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Shared.Navbar.Navbar",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Shared.Navbar.Navbar"
+        }
+      },
+      {
+        "HashCode": -1620566751,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Shared.Navbar.Navbar",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NinjabattlerBlazor.Shared.Navbar.Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Shared.Navbar.Navbar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1148387305,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Shared.Footer.Footer",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Shared.Footer.Footer"
+        }
+      },
+      {
+        "HashCode": -218880648,
+        "Kind": "Components.Component",
+        "Name": "NinjabattlerBlazor.Shared.Footer.Footer",
+        "AssemblyName": "NinjabattlerBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NinjabattlerBlazor.Shared.Footer.Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NinjabattlerBlazor.Shared.Footer.Footer",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,72 +388,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "NinjabattlerBlazor.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -847700702,
-        "Kind": "Components.Component",
-        "Name": "NinjabattlerBlazor.Shared.Navbar.Navbar",
-        "AssemblyName": "NinjabattlerBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NinjabattlerBlazor.Shared.Navbar.Navbar"
-        }
-      },
-      {
-        "HashCode": -1620566751,
-        "Kind": "Components.Component",
-        "Name": "NinjabattlerBlazor.Shared.Navbar.Navbar",
-        "AssemblyName": "NinjabattlerBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NinjabattlerBlazor.Shared.Navbar.Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NinjabattlerBlazor.Shared.Navbar.Navbar",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 138040477,
-        "Kind": "Components.Component",
-        "Name": "NinjabattlerBlazor.Shared.NavMenu",
-        "AssemblyName": "NinjabattlerBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NinjabattlerBlazor.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 503005807,
-        "Kind": "Components.Component",
-        "Name": "NinjabattlerBlazor.Shared.NavMenu",
-        "AssemblyName": "NinjabattlerBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NinjabattlerBlazor.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NinjabattlerBlazor.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16662,6 +16695,11 @@
     {
       "FilePath": "/home/jayden/Documents/ninjabattler-blazor/Shared/SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/jayden/Documents/ninjabattler-blazor/Shared/Footer/Footer.razor",
+      "TargetPath": "Shared\\Footer\\Footer.razor",
       "FileKind": "component"
     },
     {

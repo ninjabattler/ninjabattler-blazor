@@ -28,3 +28,4 @@
 /home/jayden/Documents/ninjabattler-blazor/bin/Debug/net6.0/package-lock.json
 /home/jayden/Documents/ninjabattler-blazor/bin/Debug/net6.0/package.json
 /home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/Shared/Navbar/Navbar.razor.rz.scp.css
+/home/jayden/Documents/ninjabattler-blazor/obj/Debug/net6.0/scopedcss/Shared/Footer/Footer.razor.rz.scp.css
