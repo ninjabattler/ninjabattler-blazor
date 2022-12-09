@@ -1,11 +1,11 @@
 .navBar[b-hqv3ustcjh] {
   width: 100vw;
-  height: 16.25vw;
+  height: 14.25vw;
   background-color: var(--dark-gray);
   filter: drop-shadow(5px 5px 5px black);
   z-index: 100;
   position: sticky;
-  top: -15.8vw;
+  top: -13.9vw;
   font-size: 1.4vw;
 }
 @media (max-device-width: 425px) {
@@ -26,7 +26,7 @@
   mix-blend-mode: normal;
   opacity: 0.55;
   z-index: -2;
-  filter: blur(3px);
+  filter: blur(3px) brightness(1.2);
 }
 @media (max-device-width: 425px) {
   .spaceBackground[b-hqv3ustcjh] {
@@ -41,11 +41,11 @@
 }
 
 .navBar > a > img[b-hqv3ustcjh] {
-  height: 16.25vw;
+  height: 14.25vw;
 }
 
 .navBar > a > #glow[b-hqv3ustcjh] {
-  height: 16.25vw;
+  height: 14.25vw;
   margin-left: auto;
   margin-right: auto;
   filter: blur(6px) brightness(2);
@@ -69,7 +69,7 @@
   border-top: 3.25vw solid var(--light-gray);
   border-right: 3.25vw solid transparent;
   border-left: 3.25vw solid transparent;
-  margin-top: -0.5vw;
+  margin-top: -0.4vw;
   margin-left: 1.75vw;
   position: absolute;
   display: flex;
@@ -180,7 +180,7 @@
 }
 
 #shadow[b-hqv3ustcjh] {
-  background-image: linear-gradient(rgba(0, 0, 0, 0) 60%, rgb(7, 7, 7) 88%, var(--dark-gray) 88%);
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 80%, rgb(7, 7, 7) 88%, var(--dark-gray) 88%);
   filter: blur(0);
   width: 100%;
   height: 100%;
@@ -190,7 +190,7 @@
 }
 @media (max-device-width: 425px) {
   #shadow[b-hqv3ustcjh] {
-    background-image: linear-gradient(rgba(0, 0, 0, 0) 70%, rgb(7, 7, 7) 88%, var(--dark-gray) 88%);
+    background-image: linear-gradient(rgba(0, 0, 0, 0) 80%, rgb(7, 7, 7) 88%, var(--dark-gray) 88%);
   }
 }
 
